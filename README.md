@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muzammal-noble
 - 👀 I’m interested in html,css,javascript,bootstrap and php.
-- 🌱 I’m currently learning BBA in Agribusiness in Shere-Bangla-Agricultural-University
-- - 💞️ I’m looking to collaborate on html,css,javascript,bootstrap and php
+- 🌱 I’m currently in Agricultural Economics at Shere-Bangla-Agricultural-University
+- - 💞️ I’m looking to collaborate on html,css,javascript,bootstrap,php and C .
 - 📫 contact me: http://facebook.com/muzammal.noble
 
 <!---
